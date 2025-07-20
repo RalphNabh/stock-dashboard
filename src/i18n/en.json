@@ -1,0 +1,14 @@
+{
+    "title": "Stock Market Dashboard",
+    "barChartTitle": "June 2024 Closing Prices",
+    "lineChartTitle": "Stock Price Over Time",
+    "selectCompany": "Select a company",
+    "apple": "Apple",
+    "microsoft": "Microsoft",
+    "google": "Google",
+    "amazon": "Amazon",
+    "meta": "Meta",
+    "description": "This dashboard compares the performance of top tech stocks in 2024. Switch languages, explore prices, and interact with the data in real-time."
+
+  }
+  

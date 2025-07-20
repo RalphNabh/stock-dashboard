@@ -1,0 +1,13 @@
+{
+    "companies": ["Apple", "Microsoft", "Google", "Amazon", "Meta"],
+    "junePrices": [189, 212, 131, 124, 307],
+    "monthlyData": {
+      "Apple": [170, 175, 180, 182, 185, 189],
+      "Microsoft": [200, 203, 208, 210, 211, 212],
+      "Google": [120, 123, 126, 128, 130, 131],
+      "Amazon": [110, 112, 116, 120, 123, 124],
+      "Meta": [290, 295, 300, 305, 306, 307]
+    },
+    "months": ["Jan", "Feb", "Mar", "Apr", "May", "Jun"]
+  }
+  

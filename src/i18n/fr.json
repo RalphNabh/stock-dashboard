@@ -1,0 +1,14 @@
+{
+    "title": "Tableau de bord boursier",
+    "barChartTitle": "Prix de clôture - Juin 2024",
+    "lineChartTitle": "Évolution du prix de l'action",
+    "selectCompany": "Choisissez une entreprise",
+    "apple": "Apple",
+    "microsoft": "Microsoft",
+    "google": "Google",
+    "amazon": "Amazon",
+    "meta": "Meta",
+    "description": "Ce tableau de bord compare la performance des principales actions technologiques en 2024. Changez de langue, explorez les prix et interagissez avec les données en temps réel."
+
+  }
+  
